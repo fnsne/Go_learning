@@ -12,5 +12,6 @@ var (
 )
 
 func main2() {
+	fmt.Println("in variable2.go")
 	fmt.Println(x2, y2, z2, c2, python2, java2)
 }

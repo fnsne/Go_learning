@@ -7,4 +7,6 @@ var c, python, java bool
 
 func main() {
 	fmt.Println(x, y, z, c, python, java)
+	main2()
+	func1()
 }
